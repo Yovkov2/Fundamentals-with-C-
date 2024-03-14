@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Intro and Basic Syntax\Intro and Basic Syntax\bin\Debug\net6.0\Intro and Basic Syntax.exe
+C:\Users\yoan2\source\repos\Intro and Basic Syntax\Intro and Basic Syntax\bin\Debug\net6.0\Intro and Basic Syntax.deps.json
+C:\Users\yoan2\source\repos\Intro and Basic Syntax\Intro and Basic Syntax\bin\Debug\net6.0\Intro and Basic Syntax.runtimeconfig.json
+C:\Users\yoan2\source\repos\Intro and Basic Syntax\Intro and Basic Syntax\bin\Debug\net6.0\Intro and Basic Syntax.dll
+C:\Users\yoan2\source\repos\Intro and Basic Syntax\Intro and Basic Syntax\bin\Debug\net6.0\Intro and Basic Syntax.pdb
+C:\Users\yoan2\source\repos\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\net6.0\Intro and Basic Syntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\net6.0\Intro and Basic Syntax.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\net6.0\Intro and Basic Syntax.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\net6.0\Intro and Basic Syntax.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\net6.0\Intro and Basic Syntax.dll
+C:\Users\yoan2\source\repos\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\net6.0\refint\Intro and Basic Syntax.dll
+C:\Users\yoan2\source\repos\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\net6.0\Intro and Basic Syntax.pdb
+C:\Users\yoan2\source\repos\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\net6.0\Intro and Basic Syntax.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\net6.0\ref\Intro and Basic Syntax.dll
