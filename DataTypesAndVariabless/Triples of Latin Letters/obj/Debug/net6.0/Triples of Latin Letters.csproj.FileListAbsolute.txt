@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Triples of Latin Letters\bin\Debug\net6.0\Triples of Latin Letters.exe
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Triples of Latin Letters\bin\Debug\net6.0\Triples of Latin Letters.deps.json
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Triples of Latin Letters\bin\Debug\net6.0\Triples of Latin Letters.runtimeconfig.json
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Triples of Latin Letters\bin\Debug\net6.0\Triples of Latin Letters.dll
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Triples of Latin Letters\bin\Debug\net6.0\Triples of Latin Letters.pdb
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Triples of Latin Letters\obj\Debug\net6.0\Triples of Latin Letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Triples of Latin Letters\obj\Debug\net6.0\Triples of Latin Letters.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Triples of Latin Letters\obj\Debug\net6.0\Triples of Latin Letters.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Triples of Latin Letters\obj\Debug\net6.0\Triples of Latin Letters.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Triples of Latin Letters\obj\Debug\net6.0\Triples of Latin Letters.dll
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Triples of Latin Letters\obj\Debug\net6.0\refint\Triples of Latin Letters.dll
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Triples of Latin Letters\obj\Debug\net6.0\Triples of Latin Letters.pdb
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Triples of Latin Letters\obj\Debug\net6.0\Triples of Latin Letters.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Triples of Latin Letters\obj\Debug\net6.0\ref\Triples of Latin Letters.dll

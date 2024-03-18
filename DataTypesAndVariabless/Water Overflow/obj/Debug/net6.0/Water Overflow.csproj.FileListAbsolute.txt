@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Water Overflow\bin\Debug\net6.0\Water Overflow.exe
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Water Overflow\bin\Debug\net6.0\Water Overflow.deps.json
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Water Overflow\bin\Debug\net6.0\Water Overflow.runtimeconfig.json
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Water Overflow\bin\Debug\net6.0\Water Overflow.dll
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Water Overflow\bin\Debug\net6.0\Water Overflow.pdb
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Water Overflow\obj\Debug\net6.0\Water Overflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Water Overflow\obj\Debug\net6.0\Water Overflow.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Water Overflow\obj\Debug\net6.0\Water Overflow.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Water Overflow\obj\Debug\net6.0\Water Overflow.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Water Overflow\obj\Debug\net6.0\Water Overflow.dll
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Water Overflow\obj\Debug\net6.0\refint\Water Overflow.dll
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Water Overflow\obj\Debug\net6.0\Water Overflow.pdb
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Water Overflow\obj\Debug\net6.0\Water Overflow.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Water Overflow\obj\Debug\net6.0\ref\Water Overflow.dll

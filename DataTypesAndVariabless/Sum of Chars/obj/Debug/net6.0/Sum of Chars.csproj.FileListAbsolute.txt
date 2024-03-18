@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Sum of Chars\bin\Debug\net6.0\Sum of Chars.exe
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Sum of Chars\bin\Debug\net6.0\Sum of Chars.deps.json
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Sum of Chars\bin\Debug\net6.0\Sum of Chars.runtimeconfig.json
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Sum of Chars\bin\Debug\net6.0\Sum of Chars.dll
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Sum of Chars\bin\Debug\net6.0\Sum of Chars.pdb
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Sum of Chars\obj\Debug\net6.0\Sum of Chars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Sum of Chars\obj\Debug\net6.0\Sum of Chars.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Sum of Chars\obj\Debug\net6.0\Sum of Chars.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Sum of Chars\obj\Debug\net6.0\Sum of Chars.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Sum of Chars\obj\Debug\net6.0\Sum of Chars.dll
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Sum of Chars\obj\Debug\net6.0\refint\Sum of Chars.dll
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Sum of Chars\obj\Debug\net6.0\Sum of Chars.pdb
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Sum of Chars\obj\Debug\net6.0\Sum of Chars.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Sum of Chars\obj\Debug\net6.0\ref\Sum of Chars.dll

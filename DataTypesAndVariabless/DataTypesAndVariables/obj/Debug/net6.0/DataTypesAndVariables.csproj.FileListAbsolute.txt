@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\net6.0\DataTypesAndVariables.exe
+C:\Users\yoan2\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\net6.0\DataTypesAndVariables.deps.json
+C:\Users\yoan2\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\net6.0\DataTypesAndVariables.runtimeconfig.json
+C:\Users\yoan2\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\net6.0\DataTypesAndVariables.dll
+C:\Users\yoan2\source\repos\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\net6.0\DataTypesAndVariables.pdb
+C:\Users\yoan2\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\net6.0\DataTypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\net6.0\DataTypesAndVariables.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\net6.0\DataTypesAndVariables.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\net6.0\DataTypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\net6.0\DataTypesAndVariables.dll
+C:\Users\yoan2\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\net6.0\refint\DataTypesAndVariables.dll
+C:\Users\yoan2\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\net6.0\DataTypesAndVariables.pdb
+C:\Users\yoan2\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\net6.0\DataTypesAndVariables.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\net6.0\ref\DataTypesAndVariables.dll

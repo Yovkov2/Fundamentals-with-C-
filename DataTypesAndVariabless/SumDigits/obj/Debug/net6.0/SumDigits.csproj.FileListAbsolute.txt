@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\DataTypesAndVariables\SumDigits\bin\Debug\net6.0\SumDigits.exe
+C:\Users\yoan2\source\repos\DataTypesAndVariables\SumDigits\bin\Debug\net6.0\SumDigits.deps.json
+C:\Users\yoan2\source\repos\DataTypesAndVariables\SumDigits\bin\Debug\net6.0\SumDigits.runtimeconfig.json
+C:\Users\yoan2\source\repos\DataTypesAndVariables\SumDigits\bin\Debug\net6.0\SumDigits.dll
+C:\Users\yoan2\source\repos\DataTypesAndVariables\SumDigits\bin\Debug\net6.0\SumDigits.pdb
+C:\Users\yoan2\source\repos\DataTypesAndVariables\SumDigits\obj\Debug\net6.0\SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\DataTypesAndVariables\SumDigits\obj\Debug\net6.0\SumDigits.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\DataTypesAndVariables\SumDigits\obj\Debug\net6.0\SumDigits.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\DataTypesAndVariables\SumDigits\obj\Debug\net6.0\SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\DataTypesAndVariables\SumDigits\obj\Debug\net6.0\SumDigits.dll
+C:\Users\yoan2\source\repos\DataTypesAndVariables\SumDigits\obj\Debug\net6.0\refint\SumDigits.dll
+C:\Users\yoan2\source\repos\DataTypesAndVariables\SumDigits\obj\Debug\net6.0\SumDigits.pdb
+C:\Users\yoan2\source\repos\DataTypesAndVariables\SumDigits\obj\Debug\net6.0\SumDigits.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\DataTypesAndVariables\SumDigits\obj\Debug\net6.0\ref\SumDigits.dll

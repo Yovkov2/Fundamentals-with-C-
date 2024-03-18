@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Print Part of the ASCII Table\bin\Debug\net6.0\Print Part of the ASCII Table.exe
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Print Part of the ASCII Table\bin\Debug\net6.0\Print Part of the ASCII Table.deps.json
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Print Part of the ASCII Table\bin\Debug\net6.0\Print Part of the ASCII Table.runtimeconfig.json
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Print Part of the ASCII Table\bin\Debug\net6.0\Print Part of the ASCII Table.dll
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Print Part of the ASCII Table\bin\Debug\net6.0\Print Part of the ASCII Table.pdb
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Print Part of the ASCII Table\obj\Debug\net6.0\Print Part of the ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Print Part of the ASCII Table\obj\Debug\net6.0\Print Part of the ASCII Table.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Print Part of the ASCII Table\obj\Debug\net6.0\Print Part of the ASCII Table.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Print Part of the ASCII Table\obj\Debug\net6.0\Print Part of the ASCII Table.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Print Part of the ASCII Table\obj\Debug\net6.0\Print Part of the ASCII Table.dll
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Print Part of the ASCII Table\obj\Debug\net6.0\refint\Print Part of the ASCII Table.dll
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Print Part of the ASCII Table\obj\Debug\net6.0\Print Part of the ASCII Table.pdb
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Print Part of the ASCII Table\obj\Debug\net6.0\Print Part of the ASCII Table.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Print Part of the ASCII Table\obj\Debug\net6.0\ref\Print Part of the ASCII Table.dll

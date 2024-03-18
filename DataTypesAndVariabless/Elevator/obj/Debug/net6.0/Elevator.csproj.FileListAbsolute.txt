@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Elevator\bin\Debug\net6.0\Elevator.exe
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Elevator\bin\Debug\net6.0\Elevator.deps.json
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Elevator\bin\Debug\net6.0\Elevator.runtimeconfig.json
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Elevator\bin\Debug\net6.0\Elevator.dll
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Elevator\bin\Debug\net6.0\Elevator.pdb
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Elevator\obj\Debug\net6.0\Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Elevator\obj\Debug\net6.0\Elevator.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Elevator\obj\Debug\net6.0\Elevator.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Elevator\obj\Debug\net6.0\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Elevator\obj\Debug\net6.0\Elevator.dll
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Elevator\obj\Debug\net6.0\refint\Elevator.dll
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Elevator\obj\Debug\net6.0\Elevator.pdb
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Elevator\obj\Debug\net6.0\Elevator.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Elevator\obj\Debug\net6.0\ref\Elevator.dll

@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Beer Kegs\bin\Debug\net6.0\Beer Kegs.exe
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Beer Kegs\bin\Debug\net6.0\Beer Kegs.deps.json
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Beer Kegs\bin\Debug\net6.0\Beer Kegs.runtimeconfig.json
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Beer Kegs\bin\Debug\net6.0\Beer Kegs.dll
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Beer Kegs\bin\Debug\net6.0\Beer Kegs.pdb
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Beer Kegs\obj\Debug\net6.0\Beer Kegs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Beer Kegs\obj\Debug\net6.0\Beer Kegs.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Beer Kegs\obj\Debug\net6.0\Beer Kegs.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Beer Kegs\obj\Debug\net6.0\Beer Kegs.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Beer Kegs\obj\Debug\net6.0\Beer Kegs.dll
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Beer Kegs\obj\Debug\net6.0\refint\Beer Kegs.dll
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Beer Kegs\obj\Debug\net6.0\Beer Kegs.pdb
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Beer Kegs\obj\Debug\net6.0\Beer Kegs.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\DataTypesAndVariables\Beer Kegs\obj\Debug\net6.0\ref\Beer Kegs.dll
