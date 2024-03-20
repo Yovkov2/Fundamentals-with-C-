@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Train-Arrays\Common Elements-Arrays\bin\Debug\net6.0\Common Elements-Arrays.exe
+C:\Users\yoan2\source\repos\Train-Arrays\Common Elements-Arrays\bin\Debug\net6.0\Common Elements-Arrays.deps.json
+C:\Users\yoan2\source\repos\Train-Arrays\Common Elements-Arrays\bin\Debug\net6.0\Common Elements-Arrays.runtimeconfig.json
+C:\Users\yoan2\source\repos\Train-Arrays\Common Elements-Arrays\bin\Debug\net6.0\Common Elements-Arrays.dll
+C:\Users\yoan2\source\repos\Train-Arrays\Common Elements-Arrays\bin\Debug\net6.0\Common Elements-Arrays.pdb
+C:\Users\yoan2\source\repos\Train-Arrays\Common Elements-Arrays\obj\Debug\net6.0\Common Elements-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Train-Arrays\Common Elements-Arrays\obj\Debug\net6.0\Common Elements-Arrays.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Train-Arrays\Common Elements-Arrays\obj\Debug\net6.0\Common Elements-Arrays.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Train-Arrays\Common Elements-Arrays\obj\Debug\net6.0\Common Elements-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Train-Arrays\Common Elements-Arrays\obj\Debug\net6.0\Common Elements-Arrays.dll
+C:\Users\yoan2\source\repos\Train-Arrays\Common Elements-Arrays\obj\Debug\net6.0\refint\Common Elements-Arrays.dll
+C:\Users\yoan2\source\repos\Train-Arrays\Common Elements-Arrays\obj\Debug\net6.0\Common Elements-Arrays.pdb
+C:\Users\yoan2\source\repos\Train-Arrays\Common Elements-Arrays\obj\Debug\net6.0\Common Elements-Arrays.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Train-Arrays\Common Elements-Arrays\obj\Debug\net6.0\ref\Common Elements-Arrays.dll

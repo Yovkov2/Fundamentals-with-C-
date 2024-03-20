@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Train-Arrays\Array Rotation-\bin\Debug\net6.0\Array Rotation-.exe
+C:\Users\yoan2\source\repos\Train-Arrays\Array Rotation-\bin\Debug\net6.0\Array Rotation-.deps.json
+C:\Users\yoan2\source\repos\Train-Arrays\Array Rotation-\bin\Debug\net6.0\Array Rotation-.runtimeconfig.json
+C:\Users\yoan2\source\repos\Train-Arrays\Array Rotation-\bin\Debug\net6.0\Array Rotation-.dll
+C:\Users\yoan2\source\repos\Train-Arrays\Array Rotation-\bin\Debug\net6.0\Array Rotation-.pdb
+C:\Users\yoan2\source\repos\Train-Arrays\Array Rotation-\obj\Debug\net6.0\Array Rotation-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Train-Arrays\Array Rotation-\obj\Debug\net6.0\Array Rotation-.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Train-Arrays\Array Rotation-\obj\Debug\net6.0\Array Rotation-.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Train-Arrays\Array Rotation-\obj\Debug\net6.0\Array Rotation-.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Train-Arrays\Array Rotation-\obj\Debug\net6.0\Array Rotation-.dll
+C:\Users\yoan2\source\repos\Train-Arrays\Array Rotation-\obj\Debug\net6.0\refint\Array Rotation-.dll
+C:\Users\yoan2\source\repos\Train-Arrays\Array Rotation-\obj\Debug\net6.0\Array Rotation-.pdb
+C:\Users\yoan2\source\repos\Train-Arrays\Array Rotation-\obj\Debug\net6.0\Array Rotation-.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Train-Arrays\Array Rotation-\obj\Debug\net6.0\ref\Array Rotation-.dll

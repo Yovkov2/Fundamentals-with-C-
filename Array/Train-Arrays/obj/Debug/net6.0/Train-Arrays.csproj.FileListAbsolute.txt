@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Train-Arrays\Train-Arrays\bin\Debug\net6.0\Train-Arrays.exe
+C:\Users\yoan2\source\repos\Train-Arrays\Train-Arrays\bin\Debug\net6.0\Train-Arrays.deps.json
+C:\Users\yoan2\source\repos\Train-Arrays\Train-Arrays\bin\Debug\net6.0\Train-Arrays.runtimeconfig.json
+C:\Users\yoan2\source\repos\Train-Arrays\Train-Arrays\bin\Debug\net6.0\Train-Arrays.dll
+C:\Users\yoan2\source\repos\Train-Arrays\Train-Arrays\bin\Debug\net6.0\Train-Arrays.pdb
+C:\Users\yoan2\source\repos\Train-Arrays\Train-Arrays\obj\Debug\net6.0\Train-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Train-Arrays\Train-Arrays\obj\Debug\net6.0\Train-Arrays.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Train-Arrays\Train-Arrays\obj\Debug\net6.0\Train-Arrays.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Train-Arrays\Train-Arrays\obj\Debug\net6.0\Train-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Train-Arrays\Train-Arrays\obj\Debug\net6.0\Train-Arrays.dll
+C:\Users\yoan2\source\repos\Train-Arrays\Train-Arrays\obj\Debug\net6.0\refint\Train-Arrays.dll
+C:\Users\yoan2\source\repos\Train-Arrays\Train-Arrays\obj\Debug\net6.0\Train-Arrays.pdb
+C:\Users\yoan2\source\repos\Train-Arrays\Train-Arrays\obj\Debug\net6.0\Train-Arrays.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Train-Arrays\Train-Arrays\obj\Debug\net6.0\ref\Train-Arrays.dll

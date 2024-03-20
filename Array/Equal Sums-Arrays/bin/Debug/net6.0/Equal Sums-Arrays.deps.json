@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Equal Sums-Arrays/1.0.0": {
+        "runtime": {
+          "Equal Sums-Arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Equal Sums-Arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

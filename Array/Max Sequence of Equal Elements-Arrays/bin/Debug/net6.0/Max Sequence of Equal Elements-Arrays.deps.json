@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Max Sequence of Equal Elements-Arrays/1.0.0": {
+        "runtime": {
+          "Max Sequence of Equal Elements-Arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Max Sequence of Equal Elements-Arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

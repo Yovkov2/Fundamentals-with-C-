@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Train-Arrays\Magic Sum-Arrays\bin\Debug\net6.0\Magic Sum-Arrays.exe
+C:\Users\yoan2\source\repos\Train-Arrays\Magic Sum-Arrays\bin\Debug\net6.0\Magic Sum-Arrays.deps.json
+C:\Users\yoan2\source\repos\Train-Arrays\Magic Sum-Arrays\bin\Debug\net6.0\Magic Sum-Arrays.runtimeconfig.json
+C:\Users\yoan2\source\repos\Train-Arrays\Magic Sum-Arrays\bin\Debug\net6.0\Magic Sum-Arrays.dll
+C:\Users\yoan2\source\repos\Train-Arrays\Magic Sum-Arrays\bin\Debug\net6.0\Magic Sum-Arrays.pdb
+C:\Users\yoan2\source\repos\Train-Arrays\Magic Sum-Arrays\obj\Debug\net6.0\Magic Sum-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Train-Arrays\Magic Sum-Arrays\obj\Debug\net6.0\Magic Sum-Arrays.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Train-Arrays\Magic Sum-Arrays\obj\Debug\net6.0\Magic Sum-Arrays.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Train-Arrays\Magic Sum-Arrays\obj\Debug\net6.0\Magic Sum-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Train-Arrays\Magic Sum-Arrays\obj\Debug\net6.0\Magic Sum-Arrays.dll
+C:\Users\yoan2\source\repos\Train-Arrays\Magic Sum-Arrays\obj\Debug\net6.0\refint\Magic Sum-Arrays.dll
+C:\Users\yoan2\source\repos\Train-Arrays\Magic Sum-Arrays\obj\Debug\net6.0\Magic Sum-Arrays.pdb
+C:\Users\yoan2\source\repos\Train-Arrays\Magic Sum-Arrays\obj\Debug\net6.0\Magic Sum-Arrays.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Train-Arrays\Magic Sum-Arrays\obj\Debug\net6.0\ref\Magic Sum-Arrays.dll

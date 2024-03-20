@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Train-Arrays\Top Integers-Arrays\bin\Debug\net6.0\Top Integers-Arrays.exe
+C:\Users\yoan2\source\repos\Train-Arrays\Top Integers-Arrays\bin\Debug\net6.0\Top Integers-Arrays.deps.json
+C:\Users\yoan2\source\repos\Train-Arrays\Top Integers-Arrays\bin\Debug\net6.0\Top Integers-Arrays.runtimeconfig.json
+C:\Users\yoan2\source\repos\Train-Arrays\Top Integers-Arrays\bin\Debug\net6.0\Top Integers-Arrays.dll
+C:\Users\yoan2\source\repos\Train-Arrays\Top Integers-Arrays\bin\Debug\net6.0\Top Integers-Arrays.pdb
+C:\Users\yoan2\source\repos\Train-Arrays\Top Integers-Arrays\obj\Debug\net6.0\Top Integers-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Train-Arrays\Top Integers-Arrays\obj\Debug\net6.0\Top Integers-Arrays.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Train-Arrays\Top Integers-Arrays\obj\Debug\net6.0\Top Integers-Arrays.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Train-Arrays\Top Integers-Arrays\obj\Debug\net6.0\Top Integers-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Train-Arrays\Top Integers-Arrays\obj\Debug\net6.0\Top Integers-Arrays.dll
+C:\Users\yoan2\source\repos\Train-Arrays\Top Integers-Arrays\obj\Debug\net6.0\refint\Top Integers-Arrays.dll
+C:\Users\yoan2\source\repos\Train-Arrays\Top Integers-Arrays\obj\Debug\net6.0\Top Integers-Arrays.pdb
+C:\Users\yoan2\source\repos\Train-Arrays\Top Integers-Arrays\obj\Debug\net6.0\Top Integers-Arrays.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Train-Arrays\Top Integers-Arrays\obj\Debug\net6.0\ref\Top Integers-Arrays.dll

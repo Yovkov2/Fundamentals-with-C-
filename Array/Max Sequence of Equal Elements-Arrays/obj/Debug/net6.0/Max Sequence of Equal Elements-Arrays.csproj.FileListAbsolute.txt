@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Train-Arrays\Max Sequence of Equal Elements-Arrays\bin\Debug\net6.0\Max Sequence of Equal Elements-Arrays.exe
+C:\Users\yoan2\source\repos\Train-Arrays\Max Sequence of Equal Elements-Arrays\bin\Debug\net6.0\Max Sequence of Equal Elements-Arrays.deps.json
+C:\Users\yoan2\source\repos\Train-Arrays\Max Sequence of Equal Elements-Arrays\bin\Debug\net6.0\Max Sequence of Equal Elements-Arrays.runtimeconfig.json
+C:\Users\yoan2\source\repos\Train-Arrays\Max Sequence of Equal Elements-Arrays\bin\Debug\net6.0\Max Sequence of Equal Elements-Arrays.dll
+C:\Users\yoan2\source\repos\Train-Arrays\Max Sequence of Equal Elements-Arrays\bin\Debug\net6.0\Max Sequence of Equal Elements-Arrays.pdb
+C:\Users\yoan2\source\repos\Train-Arrays\Max Sequence of Equal Elements-Arrays\obj\Debug\net6.0\Max Sequence of Equal Elements-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Train-Arrays\Max Sequence of Equal Elements-Arrays\obj\Debug\net6.0\Max Sequence of Equal Elements-Arrays.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Train-Arrays\Max Sequence of Equal Elements-Arrays\obj\Debug\net6.0\Max Sequence of Equal Elements-Arrays.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Train-Arrays\Max Sequence of Equal Elements-Arrays\obj\Debug\net6.0\Max Sequence of Equal Elements-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Train-Arrays\Max Sequence of Equal Elements-Arrays\obj\Debug\net6.0\Max Sequence of Equal Elements-Arrays.dll
+C:\Users\yoan2\source\repos\Train-Arrays\Max Sequence of Equal Elements-Arrays\obj\Debug\net6.0\refint\Max Sequence of Equal Elements-Arrays.dll
+C:\Users\yoan2\source\repos\Train-Arrays\Max Sequence of Equal Elements-Arrays\obj\Debug\net6.0\Max Sequence of Equal Elements-Arrays.pdb
+C:\Users\yoan2\source\repos\Train-Arrays\Max Sequence of Equal Elements-Arrays\obj\Debug\net6.0\Max Sequence of Equal Elements-Arrays.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Train-Arrays\Max Sequence of Equal Elements-Arrays\obj\Debug\net6.0\ref\Max Sequence of Equal Elements-Arrays.dll
