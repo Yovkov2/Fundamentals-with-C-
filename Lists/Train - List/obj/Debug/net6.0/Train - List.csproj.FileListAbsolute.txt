@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Train - List\Train - List\bin\Debug\net6.0\Train - List.exe
+C:\Users\yoan2\source\repos\Train - List\Train - List\bin\Debug\net6.0\Train - List.deps.json
+C:\Users\yoan2\source\repos\Train - List\Train - List\bin\Debug\net6.0\Train - List.runtimeconfig.json
+C:\Users\yoan2\source\repos\Train - List\Train - List\bin\Debug\net6.0\Train - List.dll
+C:\Users\yoan2\source\repos\Train - List\Train - List\bin\Debug\net6.0\Train - List.pdb
+C:\Users\yoan2\source\repos\Train - List\Train - List\obj\Debug\net6.0\Train - List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Train - List\Train - List\obj\Debug\net6.0\Train - List.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Train - List\Train - List\obj\Debug\net6.0\Train - List.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Train - List\Train - List\obj\Debug\net6.0\Train - List.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Train - List\Train - List\obj\Debug\net6.0\Train - List.dll
+C:\Users\yoan2\source\repos\Train - List\Train - List\obj\Debug\net6.0\refint\Train - List.dll
+C:\Users\yoan2\source\repos\Train - List\Train - List\obj\Debug\net6.0\Train - List.pdb
+C:\Users\yoan2\source\repos\Train - List\Train - List\obj\Debug\net6.0\Train - List.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Train - List\Train - List\obj\Debug\net6.0\ref\Train - List.dll

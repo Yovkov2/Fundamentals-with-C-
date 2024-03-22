@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Train - List\Change List\bin\Debug\net6.0\Change List.exe
+C:\Users\yoan2\source\repos\Train - List\Change List\bin\Debug\net6.0\Change List.deps.json
+C:\Users\yoan2\source\repos\Train - List\Change List\bin\Debug\net6.0\Change List.runtimeconfig.json
+C:\Users\yoan2\source\repos\Train - List\Change List\bin\Debug\net6.0\Change List.dll
+C:\Users\yoan2\source\repos\Train - List\Change List\bin\Debug\net6.0\Change List.pdb
+C:\Users\yoan2\source\repos\Train - List\Change List\obj\Debug\net6.0\Change List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Train - List\Change List\obj\Debug\net6.0\Change List.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Train - List\Change List\obj\Debug\net6.0\Change List.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Train - List\Change List\obj\Debug\net6.0\Change List.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Train - List\Change List\obj\Debug\net6.0\Change List.dll
+C:\Users\yoan2\source\repos\Train - List\Change List\obj\Debug\net6.0\refint\Change List.dll
+C:\Users\yoan2\source\repos\Train - List\Change List\obj\Debug\net6.0\Change List.pdb
+C:\Users\yoan2\source\repos\Train - List\Change List\obj\Debug\net6.0\Change List.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Train - List\Change List\obj\Debug\net6.0\ref\Change List.dll

@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Train - List\House Party\bin\Debug\net6.0\House Party.exe
+C:\Users\yoan2\source\repos\Train - List\House Party\bin\Debug\net6.0\House Party.deps.json
+C:\Users\yoan2\source\repos\Train - List\House Party\bin\Debug\net6.0\House Party.runtimeconfig.json
+C:\Users\yoan2\source\repos\Train - List\House Party\bin\Debug\net6.0\House Party.dll
+C:\Users\yoan2\source\repos\Train - List\House Party\bin\Debug\net6.0\House Party.pdb
+C:\Users\yoan2\source\repos\Train - List\House Party\obj\Debug\net6.0\House Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Train - List\House Party\obj\Debug\net6.0\House Party.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Train - List\House Party\obj\Debug\net6.0\House Party.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Train - List\House Party\obj\Debug\net6.0\House Party.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Train - List\House Party\obj\Debug\net6.0\House Party.dll
+C:\Users\yoan2\source\repos\Train - List\House Party\obj\Debug\net6.0\refint\House Party.dll
+C:\Users\yoan2\source\repos\Train - List\House Party\obj\Debug\net6.0\House Party.pdb
+C:\Users\yoan2\source\repos\Train - List\House Party\obj\Debug\net6.0\House Party.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Train - List\House Party\obj\Debug\net6.0\ref\House Party.dll
