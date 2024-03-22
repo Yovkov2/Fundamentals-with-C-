@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Middle Characters\bin\Debug\net6.0\Middle Characters.exe
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Middle Characters\bin\Debug\net6.0\Middle Characters.deps.json
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Middle Characters\bin\Debug\net6.0\Middle Characters.runtimeconfig.json
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Middle Characters\bin\Debug\net6.0\Middle Characters.dll
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Middle Characters\bin\Debug\net6.0\Middle Characters.pdb
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Middle Characters\obj\Debug\net6.0\Middle Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Middle Characters\obj\Debug\net6.0\Middle Characters.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Middle Characters\obj\Debug\net6.0\Middle Characters.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Middle Characters\obj\Debug\net6.0\Middle Characters.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Middle Characters\obj\Debug\net6.0\Middle Characters.dll
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Middle Characters\obj\Debug\net6.0\refint\Middle Characters.dll
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Middle Characters\obj\Debug\net6.0\Middle Characters.pdb
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Middle Characters\obj\Debug\net6.0\Middle Characters.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Middle Characters\obj\Debug\net6.0\ref\Middle Characters.dll

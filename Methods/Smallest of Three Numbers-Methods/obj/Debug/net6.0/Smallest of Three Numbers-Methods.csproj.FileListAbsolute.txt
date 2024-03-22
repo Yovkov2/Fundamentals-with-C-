@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Smallest of Three Numbers-Methods\bin\Debug\net6.0\Smallest of Three Numbers-Methods.exe
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Smallest of Three Numbers-Methods\bin\Debug\net6.0\Smallest of Three Numbers-Methods.deps.json
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Smallest of Three Numbers-Methods\bin\Debug\net6.0\Smallest of Three Numbers-Methods.runtimeconfig.json
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Smallest of Three Numbers-Methods\bin\Debug\net6.0\Smallest of Three Numbers-Methods.dll
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Smallest of Three Numbers-Methods\bin\Debug\net6.0\Smallest of Three Numbers-Methods.pdb
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Smallest of Three Numbers-Methods\obj\Debug\net6.0\Smallest of Three Numbers-Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Smallest of Three Numbers-Methods\obj\Debug\net6.0\Smallest of Three Numbers-Methods.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Smallest of Three Numbers-Methods\obj\Debug\net6.0\Smallest of Three Numbers-Methods.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Smallest of Three Numbers-Methods\obj\Debug\net6.0\Smallest of Three Numbers-Methods.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Smallest of Three Numbers-Methods\obj\Debug\net6.0\Smallest of Three Numbers-Methods.dll
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Smallest of Three Numbers-Methods\obj\Debug\net6.0\refint\Smallest of Three Numbers-Methods.dll
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Smallest of Three Numbers-Methods\obj\Debug\net6.0\Smallest of Three Numbers-Methods.pdb
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Smallest of Three Numbers-Methods\obj\Debug\net6.0\Smallest of Three Numbers-Methods.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Smallest of Three Numbers-Methods\obj\Debug\net6.0\ref\Smallest of Three Numbers-Methods.dll

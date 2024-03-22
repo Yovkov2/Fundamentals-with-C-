@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Characters in Range\bin\Debug\net6.0\Characters in Range.exe
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Characters in Range\bin\Debug\net6.0\Characters in Range.deps.json
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Characters in Range\bin\Debug\net6.0\Characters in Range.runtimeconfig.json
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Characters in Range\bin\Debug\net6.0\Characters in Range.dll
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Characters in Range\bin\Debug\net6.0\Characters in Range.pdb
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Characters in Range\obj\Debug\net6.0\Characters in Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Characters in Range\obj\Debug\net6.0\Characters in Range.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Characters in Range\obj\Debug\net6.0\Characters in Range.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Characters in Range\obj\Debug\net6.0\Characters in Range.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Characters in Range\obj\Debug\net6.0\Characters in Range.dll
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Characters in Range\obj\Debug\net6.0\refint\Characters in Range.dll
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Characters in Range\obj\Debug\net6.0\Characters in Range.pdb
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Characters in Range\obj\Debug\net6.0\Characters in Range.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Characters in Range\obj\Debug\net6.0\ref\Characters in Range.dll

@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Palindrome Integers\bin\Debug\net6.0\Palindrome Integers.exe
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Palindrome Integers\bin\Debug\net6.0\Palindrome Integers.deps.json
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Palindrome Integers\bin\Debug\net6.0\Palindrome Integers.runtimeconfig.json
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Palindrome Integers\bin\Debug\net6.0\Palindrome Integers.dll
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Palindrome Integers\bin\Debug\net6.0\Palindrome Integers.pdb
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Palindrome Integers\obj\Debug\net6.0\Palindrome Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Palindrome Integers\obj\Debug\net6.0\Palindrome Integers.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Palindrome Integers\obj\Debug\net6.0\Palindrome Integers.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Palindrome Integers\obj\Debug\net6.0\Palindrome Integers.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Palindrome Integers\obj\Debug\net6.0\Palindrome Integers.dll
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Palindrome Integers\obj\Debug\net6.0\refint\Palindrome Integers.dll
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Palindrome Integers\obj\Debug\net6.0\Palindrome Integers.pdb
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Palindrome Integers\obj\Debug\net6.0\Palindrome Integers.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Palindrome Integers\obj\Debug\net6.0\ref\Palindrome Integers.dll

@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\NxN Matrix\bin\Debug\net6.0\NxN Matrix.exe
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\NxN Matrix\bin\Debug\net6.0\NxN Matrix.deps.json
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\NxN Matrix\bin\Debug\net6.0\NxN Matrix.runtimeconfig.json
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\NxN Matrix\bin\Debug\net6.0\NxN Matrix.dll
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\NxN Matrix\bin\Debug\net6.0\NxN Matrix.pdb
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\NxN Matrix\obj\Debug\net6.0\NxN Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\NxN Matrix\obj\Debug\net6.0\NxN Matrix.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\NxN Matrix\obj\Debug\net6.0\NxN Matrix.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\NxN Matrix\obj\Debug\net6.0\NxN Matrix.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\NxN Matrix\obj\Debug\net6.0\NxN Matrix.dll
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\NxN Matrix\obj\Debug\net6.0\refint\NxN Matrix.dll
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\NxN Matrix\obj\Debug\net6.0\NxN Matrix.pdb
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\NxN Matrix\obj\Debug\net6.0\NxN Matrix.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\NxN Matrix\obj\Debug\net6.0\ref\NxN Matrix.dll

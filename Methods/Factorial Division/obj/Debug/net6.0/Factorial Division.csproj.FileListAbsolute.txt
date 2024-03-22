@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Factorial Division\bin\Debug\net6.0\Factorial Division.exe
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Factorial Division\bin\Debug\net6.0\Factorial Division.deps.json
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Factorial Division\bin\Debug\net6.0\Factorial Division.runtimeconfig.json
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Factorial Division\bin\Debug\net6.0\Factorial Division.dll
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Factorial Division\bin\Debug\net6.0\Factorial Division.pdb
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Factorial Division\obj\Debug\net6.0\Factorial Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Factorial Division\obj\Debug\net6.0\Factorial Division.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Factorial Division\obj\Debug\net6.0\Factorial Division.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Factorial Division\obj\Debug\net6.0\Factorial Division.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Factorial Division\obj\Debug\net6.0\Factorial Division.dll
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Factorial Division\obj\Debug\net6.0\refint\Factorial Division.dll
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Factorial Division\obj\Debug\net6.0\Factorial Division.pdb
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Factorial Division\obj\Debug\net6.0\Factorial Division.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Smallest of Three Numbers-Methods\Factorial Division\obj\Debug\net6.0\ref\Factorial Division.dll
