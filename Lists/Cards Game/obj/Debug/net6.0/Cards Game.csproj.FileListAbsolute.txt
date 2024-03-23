@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Train - List\Cards Game\bin\Debug\net6.0\Cards Game.exe
+C:\Users\yoan2\source\repos\Train - List\Cards Game\bin\Debug\net6.0\Cards Game.deps.json
+C:\Users\yoan2\source\repos\Train - List\Cards Game\bin\Debug\net6.0\Cards Game.runtimeconfig.json
+C:\Users\yoan2\source\repos\Train - List\Cards Game\bin\Debug\net6.0\Cards Game.dll
+C:\Users\yoan2\source\repos\Train - List\Cards Game\bin\Debug\net6.0\Cards Game.pdb
+C:\Users\yoan2\source\repos\Train - List\Cards Game\obj\Debug\net6.0\Cards Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Train - List\Cards Game\obj\Debug\net6.0\Cards Game.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Train - List\Cards Game\obj\Debug\net6.0\Cards Game.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Train - List\Cards Game\obj\Debug\net6.0\Cards Game.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Train - List\Cards Game\obj\Debug\net6.0\Cards Game.dll
+C:\Users\yoan2\source\repos\Train - List\Cards Game\obj\Debug\net6.0\refint\Cards Game.dll
+C:\Users\yoan2\source\repos\Train - List\Cards Game\obj\Debug\net6.0\Cards Game.pdb
+C:\Users\yoan2\source\repos\Train - List\Cards Game\obj\Debug\net6.0\Cards Game.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Train - List\Cards Game\obj\Debug\net6.0\ref\Cards Game.dll

@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Train - List\List Operations\bin\Debug\net6.0\List Operations.exe
+C:\Users\yoan2\source\repos\Train - List\List Operations\bin\Debug\net6.0\List Operations.deps.json
+C:\Users\yoan2\source\repos\Train - List\List Operations\bin\Debug\net6.0\List Operations.runtimeconfig.json
+C:\Users\yoan2\source\repos\Train - List\List Operations\bin\Debug\net6.0\List Operations.dll
+C:\Users\yoan2\source\repos\Train - List\List Operations\bin\Debug\net6.0\List Operations.pdb
+C:\Users\yoan2\source\repos\Train - List\List Operations\obj\Debug\net6.0\List Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Train - List\List Operations\obj\Debug\net6.0\List Operations.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Train - List\List Operations\obj\Debug\net6.0\List Operations.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Train - List\List Operations\obj\Debug\net6.0\List Operations.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Train - List\List Operations\obj\Debug\net6.0\List Operations.dll
+C:\Users\yoan2\source\repos\Train - List\List Operations\obj\Debug\net6.0\refint\List Operations.dll
+C:\Users\yoan2\source\repos\Train - List\List Operations\obj\Debug\net6.0\List Operations.pdb
+C:\Users\yoan2\source\repos\Train - List\List Operations\obj\Debug\net6.0\List Operations.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Train - List\List Operations\obj\Debug\net6.0\ref\List Operations.dll

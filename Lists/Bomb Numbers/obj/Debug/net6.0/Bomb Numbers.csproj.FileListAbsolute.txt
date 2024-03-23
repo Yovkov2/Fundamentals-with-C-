@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Train - List\Bomb Numbers\bin\Debug\net6.0\Bomb Numbers.exe
+C:\Users\yoan2\source\repos\Train - List\Bomb Numbers\bin\Debug\net6.0\Bomb Numbers.deps.json
+C:\Users\yoan2\source\repos\Train - List\Bomb Numbers\bin\Debug\net6.0\Bomb Numbers.runtimeconfig.json
+C:\Users\yoan2\source\repos\Train - List\Bomb Numbers\bin\Debug\net6.0\Bomb Numbers.dll
+C:\Users\yoan2\source\repos\Train - List\Bomb Numbers\bin\Debug\net6.0\Bomb Numbers.pdb
+C:\Users\yoan2\source\repos\Train - List\Bomb Numbers\obj\Debug\net6.0\Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Train - List\Bomb Numbers\obj\Debug\net6.0\Bomb Numbers.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Train - List\Bomb Numbers\obj\Debug\net6.0\Bomb Numbers.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Train - List\Bomb Numbers\obj\Debug\net6.0\Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Train - List\Bomb Numbers\obj\Debug\net6.0\Bomb Numbers.dll
+C:\Users\yoan2\source\repos\Train - List\Bomb Numbers\obj\Debug\net6.0\refint\Bomb Numbers.dll
+C:\Users\yoan2\source\repos\Train - List\Bomb Numbers\obj\Debug\net6.0\Bomb Numbers.pdb
+C:\Users\yoan2\source\repos\Train - List\Bomb Numbers\obj\Debug\net6.0\Bomb Numbers.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Train - List\Bomb Numbers\obj\Debug\net6.0\ref\Bomb Numbers.dll
