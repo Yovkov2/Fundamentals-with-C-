@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Count Real Numbers\Word Filter - LINQ\bin\Debug\net6.0\Word Filter - LINQ.exe
+C:\Users\yoan2\source\repos\Count Real Numbers\Word Filter - LINQ\bin\Debug\net6.0\Word Filter - LINQ.deps.json
+C:\Users\yoan2\source\repos\Count Real Numbers\Word Filter - LINQ\bin\Debug\net6.0\Word Filter - LINQ.runtimeconfig.json
+C:\Users\yoan2\source\repos\Count Real Numbers\Word Filter - LINQ\bin\Debug\net6.0\Word Filter - LINQ.dll
+C:\Users\yoan2\source\repos\Count Real Numbers\Word Filter - LINQ\bin\Debug\net6.0\Word Filter - LINQ.pdb
+C:\Users\yoan2\source\repos\Count Real Numbers\Word Filter - LINQ\obj\Debug\net6.0\Word Filter - LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Count Real Numbers\Word Filter - LINQ\obj\Debug\net6.0\Word Filter - LINQ.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Count Real Numbers\Word Filter - LINQ\obj\Debug\net6.0\Word Filter - LINQ.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Count Real Numbers\Word Filter - LINQ\obj\Debug\net6.0\Word Filter - LINQ.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Count Real Numbers\Word Filter - LINQ\obj\Debug\net6.0\Word Filter - LINQ.dll
+C:\Users\yoan2\source\repos\Count Real Numbers\Word Filter - LINQ\obj\Debug\net6.0\refint\Word Filter - LINQ.dll
+C:\Users\yoan2\source\repos\Count Real Numbers\Word Filter - LINQ\obj\Debug\net6.0\Word Filter - LINQ.pdb
+C:\Users\yoan2\source\repos\Count Real Numbers\Word Filter - LINQ\obj\Debug\net6.0\Word Filter - LINQ.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Count Real Numbers\Word Filter - LINQ\obj\Debug\net6.0\ref\Word Filter - LINQ.dll

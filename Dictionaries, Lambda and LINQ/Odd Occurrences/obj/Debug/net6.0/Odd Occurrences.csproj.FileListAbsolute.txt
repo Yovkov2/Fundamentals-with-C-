@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Count Real Numbers\Odd Occurrences\bin\Debug\net6.0\Odd Occurrences.exe
+C:\Users\yoan2\source\repos\Count Real Numbers\Odd Occurrences\bin\Debug\net6.0\Odd Occurrences.deps.json
+C:\Users\yoan2\source\repos\Count Real Numbers\Odd Occurrences\bin\Debug\net6.0\Odd Occurrences.runtimeconfig.json
+C:\Users\yoan2\source\repos\Count Real Numbers\Odd Occurrences\bin\Debug\net6.0\Odd Occurrences.dll
+C:\Users\yoan2\source\repos\Count Real Numbers\Odd Occurrences\bin\Debug\net6.0\Odd Occurrences.pdb
+C:\Users\yoan2\source\repos\Count Real Numbers\Odd Occurrences\obj\Debug\net6.0\Odd Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Count Real Numbers\Odd Occurrences\obj\Debug\net6.0\Odd Occurrences.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Count Real Numbers\Odd Occurrences\obj\Debug\net6.0\Odd Occurrences.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Count Real Numbers\Odd Occurrences\obj\Debug\net6.0\Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Count Real Numbers\Odd Occurrences\obj\Debug\net6.0\Odd Occurrences.dll
+C:\Users\yoan2\source\repos\Count Real Numbers\Odd Occurrences\obj\Debug\net6.0\refint\Odd Occurrences.dll
+C:\Users\yoan2\source\repos\Count Real Numbers\Odd Occurrences\obj\Debug\net6.0\Odd Occurrences.pdb
+C:\Users\yoan2\source\repos\Count Real Numbers\Odd Occurrences\obj\Debug\net6.0\Odd Occurrences.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Count Real Numbers\Odd Occurrences\obj\Debug\net6.0\ref\Odd Occurrences.dll

@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Count Real Numbers\Count Real Numbers\bin\Debug\net6.0\Count Real Numbers.exe
+C:\Users\yoan2\source\repos\Count Real Numbers\Count Real Numbers\bin\Debug\net6.0\Count Real Numbers.deps.json
+C:\Users\yoan2\source\repos\Count Real Numbers\Count Real Numbers\bin\Debug\net6.0\Count Real Numbers.runtimeconfig.json
+C:\Users\yoan2\source\repos\Count Real Numbers\Count Real Numbers\bin\Debug\net6.0\Count Real Numbers.dll
+C:\Users\yoan2\source\repos\Count Real Numbers\Count Real Numbers\bin\Debug\net6.0\Count Real Numbers.pdb
+C:\Users\yoan2\source\repos\Count Real Numbers\Count Real Numbers\obj\Debug\net6.0\Count Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Count Real Numbers\Count Real Numbers\obj\Debug\net6.0\Count Real Numbers.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Count Real Numbers\Count Real Numbers\obj\Debug\net6.0\Count Real Numbers.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Count Real Numbers\Count Real Numbers\obj\Debug\net6.0\Count Real Numbers.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Count Real Numbers\Count Real Numbers\obj\Debug\net6.0\Count Real Numbers.dll
+C:\Users\yoan2\source\repos\Count Real Numbers\Count Real Numbers\obj\Debug\net6.0\refint\Count Real Numbers.dll
+C:\Users\yoan2\source\repos\Count Real Numbers\Count Real Numbers\obj\Debug\net6.0\Count Real Numbers.pdb
+C:\Users\yoan2\source\repos\Count Real Numbers\Count Real Numbers\obj\Debug\net6.0\Count Real Numbers.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Count Real Numbers\Count Real Numbers\obj\Debug\net6.0\ref\Count Real Numbers.dll

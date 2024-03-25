@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Count Real Numbers\Word Synonyms\bin\Debug\net6.0\Word Synonyms.exe
+C:\Users\yoan2\source\repos\Count Real Numbers\Word Synonyms\bin\Debug\net6.0\Word Synonyms.deps.json
+C:\Users\yoan2\source\repos\Count Real Numbers\Word Synonyms\bin\Debug\net6.0\Word Synonyms.runtimeconfig.json
+C:\Users\yoan2\source\repos\Count Real Numbers\Word Synonyms\bin\Debug\net6.0\Word Synonyms.dll
+C:\Users\yoan2\source\repos\Count Real Numbers\Word Synonyms\bin\Debug\net6.0\Word Synonyms.pdb
+C:\Users\yoan2\source\repos\Count Real Numbers\Word Synonyms\obj\Debug\net6.0\Word Synonyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Count Real Numbers\Word Synonyms\obj\Debug\net6.0\Word Synonyms.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Count Real Numbers\Word Synonyms\obj\Debug\net6.0\Word Synonyms.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Count Real Numbers\Word Synonyms\obj\Debug\net6.0\Word Synonyms.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Count Real Numbers\Word Synonyms\obj\Debug\net6.0\Word Synonyms.dll
+C:\Users\yoan2\source\repos\Count Real Numbers\Word Synonyms\obj\Debug\net6.0\refint\Word Synonyms.dll
+C:\Users\yoan2\source\repos\Count Real Numbers\Word Synonyms\obj\Debug\net6.0\Word Synonyms.pdb
+C:\Users\yoan2\source\repos\Count Real Numbers\Word Synonyms\obj\Debug\net6.0\Word Synonyms.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Count Real Numbers\Word Synonyms\obj\Debug\net6.0\ref\Word Synonyms.dll
