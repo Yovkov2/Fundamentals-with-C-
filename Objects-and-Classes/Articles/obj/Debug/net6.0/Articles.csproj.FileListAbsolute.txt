@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Advertisement Message\Articles\bin\Debug\net6.0\Articles.exe
+C:\Users\yoan2\source\repos\Advertisement Message\Articles\bin\Debug\net6.0\Articles.deps.json
+C:\Users\yoan2\source\repos\Advertisement Message\Articles\bin\Debug\net6.0\Articles.runtimeconfig.json
+C:\Users\yoan2\source\repos\Advertisement Message\Articles\bin\Debug\net6.0\Articles.dll
+C:\Users\yoan2\source\repos\Advertisement Message\Articles\bin\Debug\net6.0\Articles.pdb
+C:\Users\yoan2\source\repos\Advertisement Message\Articles\obj\Debug\net6.0\Articles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Advertisement Message\Articles\obj\Debug\net6.0\Articles.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Advertisement Message\Articles\obj\Debug\net6.0\Articles.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Advertisement Message\Articles\obj\Debug\net6.0\Articles.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Advertisement Message\Articles\obj\Debug\net6.0\Articles.dll
+C:\Users\yoan2\source\repos\Advertisement Message\Articles\obj\Debug\net6.0\refint\Articles.dll
+C:\Users\yoan2\source\repos\Advertisement Message\Articles\obj\Debug\net6.0\Articles.pdb
+C:\Users\yoan2\source\repos\Advertisement Message\Articles\obj\Debug\net6.0\Articles.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Advertisement Message\Articles\obj\Debug\net6.0\ref\Articles.dll

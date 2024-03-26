@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Advertisement Message\Students\bin\Debug\net6.0\Students.exe
+C:\Users\yoan2\source\repos\Advertisement Message\Students\bin\Debug\net6.0\Students.deps.json
+C:\Users\yoan2\source\repos\Advertisement Message\Students\bin\Debug\net6.0\Students.runtimeconfig.json
+C:\Users\yoan2\source\repos\Advertisement Message\Students\bin\Debug\net6.0\Students.dll
+C:\Users\yoan2\source\repos\Advertisement Message\Students\bin\Debug\net6.0\Students.pdb
+C:\Users\yoan2\source\repos\Advertisement Message\Students\obj\Debug\net6.0\Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Advertisement Message\Students\obj\Debug\net6.0\Students.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Advertisement Message\Students\obj\Debug\net6.0\Students.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Advertisement Message\Students\obj\Debug\net6.0\Students.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Advertisement Message\Students\obj\Debug\net6.0\Students.dll
+C:\Users\yoan2\source\repos\Advertisement Message\Students\obj\Debug\net6.0\refint\Students.dll
+C:\Users\yoan2\source\repos\Advertisement Message\Students\obj\Debug\net6.0\Students.pdb
+C:\Users\yoan2\source\repos\Advertisement Message\Students\obj\Debug\net6.0\Students.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Advertisement Message\Students\obj\Debug\net6.0\ref\Students.dll

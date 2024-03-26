@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Advertisement Message\Order by Age\bin\Debug\net6.0\Order by Age.exe
+C:\Users\yoan2\source\repos\Advertisement Message\Order by Age\bin\Debug\net6.0\Order by Age.deps.json
+C:\Users\yoan2\source\repos\Advertisement Message\Order by Age\bin\Debug\net6.0\Order by Age.runtimeconfig.json
+C:\Users\yoan2\source\repos\Advertisement Message\Order by Age\bin\Debug\net6.0\Order by Age.dll
+C:\Users\yoan2\source\repos\Advertisement Message\Order by Age\bin\Debug\net6.0\Order by Age.pdb
+C:\Users\yoan2\source\repos\Advertisement Message\Order by Age\obj\Debug\net6.0\Order by Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Advertisement Message\Order by Age\obj\Debug\net6.0\Order by Age.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Advertisement Message\Order by Age\obj\Debug\net6.0\Order by Age.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Advertisement Message\Order by Age\obj\Debug\net6.0\Order by Age.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Advertisement Message\Order by Age\obj\Debug\net6.0\Order by Age.dll
+C:\Users\yoan2\source\repos\Advertisement Message\Order by Age\obj\Debug\net6.0\refint\Order by Age.dll
+C:\Users\yoan2\source\repos\Advertisement Message\Order by Age\obj\Debug\net6.0\Order by Age.pdb
+C:\Users\yoan2\source\repos\Advertisement Message\Order by Age\obj\Debug\net6.0\Order by Age.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Advertisement Message\Order by Age\obj\Debug\net6.0\ref\Order by Age.dll
