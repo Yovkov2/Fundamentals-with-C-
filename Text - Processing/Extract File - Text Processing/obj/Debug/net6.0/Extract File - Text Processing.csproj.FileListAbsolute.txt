@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Extract File - Text Processing\bin\Debug\net6.0\Extract File - Text Processing.exe
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Extract File - Text Processing\bin\Debug\net6.0\Extract File - Text Processing.deps.json
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Extract File - Text Processing\bin\Debug\net6.0\Extract File - Text Processing.runtimeconfig.json
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Extract File - Text Processing\bin\Debug\net6.0\Extract File - Text Processing.dll
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Extract File - Text Processing\bin\Debug\net6.0\Extract File - Text Processing.pdb
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Extract File - Text Processing\obj\Debug\net6.0\Extract File - Text Processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Extract File - Text Processing\obj\Debug\net6.0\Extract File - Text Processing.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Extract File - Text Processing\obj\Debug\net6.0\Extract File - Text Processing.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Extract File - Text Processing\obj\Debug\net6.0\Extract File - Text Processing.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Extract File - Text Processing\obj\Debug\net6.0\Extract File - Text Processing.dll
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Extract File - Text Processing\obj\Debug\net6.0\refint\Extract File - Text Processing.dll
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Extract File - Text Processing\obj\Debug\net6.0\Extract File - Text Processing.pdb
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Extract File - Text Processing\obj\Debug\net6.0\Extract File - Text Processing.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Extract File - Text Processing\obj\Debug\net6.0\ref\Extract File - Text Processing.dll

@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Valid Usernames - Text Processing\bin\Debug\net6.0\Valid Usernames - Text Processing.exe
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Valid Usernames - Text Processing\bin\Debug\net6.0\Valid Usernames - Text Processing.deps.json
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Valid Usernames - Text Processing\bin\Debug\net6.0\Valid Usernames - Text Processing.runtimeconfig.json
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Valid Usernames - Text Processing\bin\Debug\net6.0\Valid Usernames - Text Processing.dll
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Valid Usernames - Text Processing\bin\Debug\net6.0\Valid Usernames - Text Processing.pdb
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Valid Usernames - Text Processing\obj\Debug\net6.0\Valid Usernames - Text Processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Valid Usernames - Text Processing\obj\Debug\net6.0\Valid Usernames - Text Processing.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Valid Usernames - Text Processing\obj\Debug\net6.0\Valid Usernames - Text Processing.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Valid Usernames - Text Processing\obj\Debug\net6.0\Valid Usernames - Text Processing.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Valid Usernames - Text Processing\obj\Debug\net6.0\Valid Usernames - Text Processing.dll
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Valid Usernames - Text Processing\obj\Debug\net6.0\refint\Valid Usernames - Text Processing.dll
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Valid Usernames - Text Processing\obj\Debug\net6.0\Valid Usernames - Text Processing.pdb
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Valid Usernames - Text Processing\obj\Debug\net6.0\Valid Usernames - Text Processing.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Valid Usernames - Text Processing\obj\Debug\net6.0\ref\Valid Usernames - Text Processing.dll

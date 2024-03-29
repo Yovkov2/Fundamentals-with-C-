@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Replace Repeating Chars - Text Processing\bin\Debug\net6.0\Replace Repeating Chars - Text Processing.exe
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Replace Repeating Chars - Text Processing\bin\Debug\net6.0\Replace Repeating Chars - Text Processing.deps.json
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Replace Repeating Chars - Text Processing\bin\Debug\net6.0\Replace Repeating Chars - Text Processing.runtimeconfig.json
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Replace Repeating Chars - Text Processing\bin\Debug\net6.0\Replace Repeating Chars - Text Processing.dll
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Replace Repeating Chars - Text Processing\bin\Debug\net6.0\Replace Repeating Chars - Text Processing.pdb
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Replace Repeating Chars - Text Processing\obj\Debug\net6.0\Replace Repeating Chars - Text Processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Replace Repeating Chars - Text Processing\obj\Debug\net6.0\Replace Repeating Chars - Text Processing.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Replace Repeating Chars - Text Processing\obj\Debug\net6.0\Replace Repeating Chars - Text Processing.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Replace Repeating Chars - Text Processing\obj\Debug\net6.0\Replace Repeating Chars - Text Processing.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Replace Repeating Chars - Text Processing\obj\Debug\net6.0\Replace Repeating Chars - Text Processing.dll
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Replace Repeating Chars - Text Processing\obj\Debug\net6.0\refint\Replace Repeating Chars - Text Processing.dll
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Replace Repeating Chars - Text Processing\obj\Debug\net6.0\Replace Repeating Chars - Text Processing.pdb
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Replace Repeating Chars - Text Processing\obj\Debug\net6.0\Replace Repeating Chars - Text Processing.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Replace Repeating Chars - Text Processing\obj\Debug\net6.0\ref\Replace Repeating Chars - Text Processing.dll

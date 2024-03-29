@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Caesar Cipher - Text Processing\bin\Debug\net6.0\Caesar Cipher - Text Processing.exe
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Caesar Cipher - Text Processing\bin\Debug\net6.0\Caesar Cipher - Text Processing.deps.json
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Caesar Cipher - Text Processing\bin\Debug\net6.0\Caesar Cipher - Text Processing.runtimeconfig.json
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Caesar Cipher - Text Processing\bin\Debug\net6.0\Caesar Cipher - Text Processing.dll
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Caesar Cipher - Text Processing\bin\Debug\net6.0\Caesar Cipher - Text Processing.pdb
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Caesar Cipher - Text Processing\obj\Debug\net6.0\Caesar Cipher - Text Processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Caesar Cipher - Text Processing\obj\Debug\net6.0\Caesar Cipher - Text Processing.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Caesar Cipher - Text Processing\obj\Debug\net6.0\Caesar Cipher - Text Processing.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Caesar Cipher - Text Processing\obj\Debug\net6.0\Caesar Cipher - Text Processing.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Caesar Cipher - Text Processing\obj\Debug\net6.0\Caesar Cipher - Text Processing.dll
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Caesar Cipher - Text Processing\obj\Debug\net6.0\refint\Caesar Cipher - Text Processing.dll
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Caesar Cipher - Text Processing\obj\Debug\net6.0\Caesar Cipher - Text Processing.pdb
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Caesar Cipher - Text Processing\obj\Debug\net6.0\Caesar Cipher - Text Processing.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\Caesar Cipher - Text Processing\obj\Debug\net6.0\ref\Caesar Cipher - Text Processing.dll

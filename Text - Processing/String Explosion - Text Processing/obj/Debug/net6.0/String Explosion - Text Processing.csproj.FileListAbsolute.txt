@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\String Explosion - Text Processing\bin\Debug\net6.0\String Explosion - Text Processing.exe
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\String Explosion - Text Processing\bin\Debug\net6.0\String Explosion - Text Processing.deps.json
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\String Explosion - Text Processing\bin\Debug\net6.0\String Explosion - Text Processing.runtimeconfig.json
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\String Explosion - Text Processing\bin\Debug\net6.0\String Explosion - Text Processing.dll
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\String Explosion - Text Processing\bin\Debug\net6.0\String Explosion - Text Processing.pdb
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\String Explosion - Text Processing\obj\Debug\net6.0\String Explosion - Text Processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\String Explosion - Text Processing\obj\Debug\net6.0\String Explosion - Text Processing.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\String Explosion - Text Processing\obj\Debug\net6.0\String Explosion - Text Processing.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\String Explosion - Text Processing\obj\Debug\net6.0\String Explosion - Text Processing.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\String Explosion - Text Processing\obj\Debug\net6.0\String Explosion - Text Processing.dll
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\String Explosion - Text Processing\obj\Debug\net6.0\refint\String Explosion - Text Processing.dll
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\String Explosion - Text Processing\obj\Debug\net6.0\String Explosion - Text Processing.pdb
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\String Explosion - Text Processing\obj\Debug\net6.0\String Explosion - Text Processing.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Valid Usernames - Text Processing\String Explosion - Text Processing\obj\Debug\net6.0\ref\String Explosion - Text Processing.dll
