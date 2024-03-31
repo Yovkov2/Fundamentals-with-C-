@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Match Full Name\Match Dates\bin\Debug\net6.0\Match Dates.exe
+C:\Users\yoan2\source\repos\Match Full Name\Match Dates\bin\Debug\net6.0\Match Dates.deps.json
+C:\Users\yoan2\source\repos\Match Full Name\Match Dates\bin\Debug\net6.0\Match Dates.runtimeconfig.json
+C:\Users\yoan2\source\repos\Match Full Name\Match Dates\bin\Debug\net6.0\Match Dates.dll
+C:\Users\yoan2\source\repos\Match Full Name\Match Dates\bin\Debug\net6.0\Match Dates.pdb
+C:\Users\yoan2\source\repos\Match Full Name\Match Dates\obj\Debug\net6.0\Match Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Match Full Name\Match Dates\obj\Debug\net6.0\Match Dates.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Match Full Name\Match Dates\obj\Debug\net6.0\Match Dates.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Match Full Name\Match Dates\obj\Debug\net6.0\Match Dates.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Match Full Name\Match Dates\obj\Debug\net6.0\Match Dates.dll
+C:\Users\yoan2\source\repos\Match Full Name\Match Dates\obj\Debug\net6.0\refint\Match Dates.dll
+C:\Users\yoan2\source\repos\Match Full Name\Match Dates\obj\Debug\net6.0\Match Dates.pdb
+C:\Users\yoan2\source\repos\Match Full Name\Match Dates\obj\Debug\net6.0\Match Dates.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Match Full Name\Match Dates\obj\Debug\net6.0\ref\Match Dates.dll

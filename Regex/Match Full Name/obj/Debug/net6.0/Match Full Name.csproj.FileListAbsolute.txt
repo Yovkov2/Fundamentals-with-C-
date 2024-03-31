@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Match Full Name\Match Full Name\bin\Debug\net6.0\Match Full Name.exe
+C:\Users\yoan2\source\repos\Match Full Name\Match Full Name\bin\Debug\net6.0\Match Full Name.deps.json
+C:\Users\yoan2\source\repos\Match Full Name\Match Full Name\bin\Debug\net6.0\Match Full Name.runtimeconfig.json
+C:\Users\yoan2\source\repos\Match Full Name\Match Full Name\bin\Debug\net6.0\Match Full Name.dll
+C:\Users\yoan2\source\repos\Match Full Name\Match Full Name\bin\Debug\net6.0\Match Full Name.pdb
+C:\Users\yoan2\source\repos\Match Full Name\Match Full Name\obj\Debug\net6.0\Match Full Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Match Full Name\Match Full Name\obj\Debug\net6.0\Match Full Name.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Match Full Name\Match Full Name\obj\Debug\net6.0\Match Full Name.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Match Full Name\Match Full Name\obj\Debug\net6.0\Match Full Name.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Match Full Name\Match Full Name\obj\Debug\net6.0\Match Full Name.dll
+C:\Users\yoan2\source\repos\Match Full Name\Match Full Name\obj\Debug\net6.0\refint\Match Full Name.dll
+C:\Users\yoan2\source\repos\Match Full Name\Match Full Name\obj\Debug\net6.0\Match Full Name.pdb
+C:\Users\yoan2\source\repos\Match Full Name\Match Full Name\obj\Debug\net6.0\Match Full Name.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Match Full Name\Match Full Name\obj\Debug\net6.0\ref\Match Full Name.dll
