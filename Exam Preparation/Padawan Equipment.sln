@@ -9,11 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rage Expenses", "Rage Expen
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Orders", "Orders\Orders.csproj", "{83B404B3-B31C-4CB2-911B-7772F10ED010}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spice Must Flow", "Spice Must Flow\Spice Must Flow.csproj", "{85FF46D3-1B01-47DF-A8A1-77AD8C7A7224}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spice Must Flow", "Spice Must Flow\Spice Must Flow.csproj", "{85FF46D3-1B01-47DF-A8A1-77AD8C7A7224}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon", "Pokemon\Pokemon.csproj", "{381E40F6-5CD1-41CC-A71D-70B9FCE673E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pokemon", "Pokemon\Pokemon.csproj", "{381E40F6-5CD1-41CC-A71D-70B9FCE673E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snowballs", "Snowballs\Snowballs.csproj", "{40F36154-D6F2-4C43-82CE-AFB6D8AE4F64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Snowballs", "Snowballs\Snowballs.csproj", "{40F36154-D6F2-4C43-82CE-AFB6D8AE4F64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kamino Factory", "Kamino Factory\Kamino Factory.csproj", "{9DEEF34F-F0C5-4054-A373-47944AE75E2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LadyBugs", "LadyBugs\LadyBugs.csproj", "{E83CF973-3F9C-4B06-8333-6E2F16FDF6E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{40F36154-D6F2-4C43-82CE-AFB6D8AE4F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40F36154-D6F2-4C43-82CE-AFB6D8AE4F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40F36154-D6F2-4C43-82CE-AFB6D8AE4F64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DEEF34F-F0C5-4054-A373-47944AE75E2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DEEF34F-F0C5-4054-A373-47944AE75E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DEEF34F-F0C5-4054-A373-47944AE75E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DEEF34F-F0C5-4054-A373-47944AE75E2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E83CF973-3F9C-4B06-8333-6E2F16FDF6E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E83CF973-3F9C-4B06-8333-6E2F16FDF6E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E83CF973-3F9C-4B06-8333-6E2F16FDF6E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E83CF973-3F9C-4B06-8333-6E2F16FDF6E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

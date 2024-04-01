@@ -1,0 +1,15 @@
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\LadyBugs\bin\Debug\net6.0\LadyBugs.exe
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\LadyBugs\bin\Debug\net6.0\LadyBugs.deps.json
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\LadyBugs\bin\Debug\net6.0\LadyBugs.runtimeconfig.json
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\LadyBugs\bin\Debug\net6.0\LadyBugs.dll
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\LadyBugs\bin\Debug\net6.0\LadyBugs.pdb
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\LadyBugs\obj\Debug\net6.0\LadyBugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\LadyBugs\obj\Debug\net6.0\LadyBugs.AssemblyInfoInputs.cache
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\LadyBugs\obj\Debug\net6.0\LadyBugs.AssemblyInfo.cs
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\LadyBugs\obj\Debug\net6.0\LadyBugs.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\LadyBugs\obj\Debug\net6.0\LadyBugs.sourcelink.json
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\LadyBugs\obj\Debug\net6.0\LadyBugs.dll
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\LadyBugs\obj\Debug\net6.0\refint\LadyBugs.dll
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\LadyBugs\obj\Debug\net6.0\LadyBugs.pdb
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\LadyBugs\obj\Debug\net6.0\LadyBugs.genruntimeconfig.cache
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\LadyBugs\obj\Debug\net6.0\ref\LadyBugs.dll
