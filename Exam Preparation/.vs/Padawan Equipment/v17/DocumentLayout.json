@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40F36154-D6F2-4C43-82CE-AFB6D8AE4F64}|Snowballs\\Snowballs.csproj|c:\\users\\yoan2\\documents\\github\\fundamentals-with-c-\\exam preparation\\snowballs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F36154-D6F2-4C43-82CE-AFB6D8AE4F64}|Snowballs\\Snowballs.csproj|solutionrelative:snowballs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{381E40F6-5CD1-41CC-A71D-70B9FCE673E8}|Pokemon\\Pokemon.csproj|c:\\users\\yoan2\\documents\\github\\fundamentals-with-c-\\exam preparation\\pokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{381E40F6-5CD1-41CC-A71D-70B9FCE673E8}|Pokemon\\Pokemon.csproj|solutionrelative:pokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85FF46D3-1B01-47DF-A8A1-77AD8C7A7224}|Spice Must Flow\\Spice Must Flow.csproj|c:\\users\\yoan2\\documents\\github\\fundamentals-with-c-\\exam preparation\\spice must flow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85FF46D3-1B01-47DF-A8A1-77AD8C7A7224}|Spice Must Flow\\Spice Must Flow.csproj|solutionrelative:spice must flow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Snowballs\\Program.cs",
+              "RelativeDocumentMoniker": "Snowballs\\Program.cs",
+              "ToolTip": "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Snowballs\\Program.cs",
+              "RelativeToolTip": "Snowballs\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:57:00.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Pokemon\\Program.cs",
+              "RelativeDocumentMoniker": "Pokemon\\Program.cs",
+              "ToolTip": "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Pokemon\\Program.cs",
+              "RelativeToolTip": "Pokemon\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:50:34.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Spice Must Flow\\Program.cs",
+              "RelativeDocumentMoniker": "Spice Must Flow\\Program.cs",
+              "ToolTip": "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Spice Must Flow\\Program.cs",
+              "RelativeToolTip": "Spice Must Flow\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:47:45.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

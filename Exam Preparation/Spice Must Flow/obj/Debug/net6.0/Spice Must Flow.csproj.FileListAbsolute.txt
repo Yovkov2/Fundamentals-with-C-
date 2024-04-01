@@ -1,0 +1,15 @@
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Spice Must Flow\bin\Debug\net6.0\Spice Must Flow.exe
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Spice Must Flow\bin\Debug\net6.0\Spice Must Flow.deps.json
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Spice Must Flow\bin\Debug\net6.0\Spice Must Flow.runtimeconfig.json
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Spice Must Flow\bin\Debug\net6.0\Spice Must Flow.dll
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Spice Must Flow\bin\Debug\net6.0\Spice Must Flow.pdb
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Spice Must Flow\obj\Debug\net6.0\Spice Must Flow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Spice Must Flow\obj\Debug\net6.0\Spice Must Flow.AssemblyInfoInputs.cache
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Spice Must Flow\obj\Debug\net6.0\Spice Must Flow.AssemblyInfo.cs
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Spice Must Flow\obj\Debug\net6.0\Spice Must Flow.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Spice Must Flow\obj\Debug\net6.0\Spice Must Flow.sourcelink.json
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Spice Must Flow\obj\Debug\net6.0\Spice Must Flow.dll
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Spice Must Flow\obj\Debug\net6.0\refint\Spice Must Flow.dll
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Spice Must Flow\obj\Debug\net6.0\Spice Must Flow.pdb
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Spice Must Flow\obj\Debug\net6.0\Spice Must Flow.genruntimeconfig.cache
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Spice Must Flow\obj\Debug\net6.0\ref\Spice Must Flow.dll

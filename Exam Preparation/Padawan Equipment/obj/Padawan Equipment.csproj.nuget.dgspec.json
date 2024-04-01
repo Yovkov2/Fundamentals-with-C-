@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yoan2\\source\\repos\\Padawan Equipment\\Padawan Equipment\\Padawan Equipment.csproj": {}
+    "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Padawan Equipment\\Padawan Equipment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yoan2\\source\\repos\\Padawan Equipment\\Padawan Equipment\\Padawan Equipment.csproj": {
+    "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Padawan Equipment\\Padawan Equipment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yoan2\\source\\repos\\Padawan Equipment\\Padawan Equipment\\Padawan Equipment.csproj",
+        "projectUniqueName": "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Padawan Equipment\\Padawan Equipment.csproj",
         "projectName": "Padawan Equipment",
-        "projectPath": "C:\\Users\\yoan2\\source\\repos\\Padawan Equipment\\Padawan Equipment\\Padawan Equipment.csproj",
+        "projectPath": "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Padawan Equipment\\Padawan Equipment.csproj",
         "packagesPath": "C:\\Users\\yoan2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yoan2\\source\\repos\\Padawan Equipment\\Padawan Equipment\\obj\\",
+        "outputPath": "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Padawan Equipment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yoan2\\AppData\\Roaming\\NuGet\\NuGet.Config",

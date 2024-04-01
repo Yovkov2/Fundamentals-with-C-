@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yoan2\\source\\repos\\Padawan Equipment\\Orders\\Orders.csproj": {}
+    "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Orders\\Orders.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yoan2\\source\\repos\\Padawan Equipment\\Orders\\Orders.csproj": {
+    "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Orders\\Orders.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yoan2\\source\\repos\\Padawan Equipment\\Orders\\Orders.csproj",
+        "projectUniqueName": "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Orders\\Orders.csproj",
         "projectName": "Orders",
-        "projectPath": "C:\\Users\\yoan2\\source\\repos\\Padawan Equipment\\Orders\\Orders.csproj",
+        "projectPath": "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Orders\\Orders.csproj",
         "packagesPath": "C:\\Users\\yoan2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yoan2\\source\\repos\\Padawan Equipment\\Orders\\obj\\",
+        "outputPath": "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Orders\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yoan2\\AppData\\Roaming\\NuGet\\NuGet.Config",

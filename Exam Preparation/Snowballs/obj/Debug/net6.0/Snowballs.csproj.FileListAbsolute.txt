@@ -1,0 +1,15 @@
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Snowballs\bin\Debug\net6.0\Snowballs.exe
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Snowballs\bin\Debug\net6.0\Snowballs.deps.json
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Snowballs\bin\Debug\net6.0\Snowballs.runtimeconfig.json
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Snowballs\bin\Debug\net6.0\Snowballs.dll
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Snowballs\bin\Debug\net6.0\Snowballs.pdb
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Snowballs\obj\Debug\net6.0\Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Snowballs\obj\Debug\net6.0\Snowballs.AssemblyInfoInputs.cache
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Snowballs\obj\Debug\net6.0\Snowballs.AssemblyInfo.cs
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Snowballs\obj\Debug\net6.0\Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Snowballs\obj\Debug\net6.0\Snowballs.sourcelink.json
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Snowballs\obj\Debug\net6.0\Snowballs.dll
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Snowballs\obj\Debug\net6.0\refint\Snowballs.dll
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Snowballs\obj\Debug\net6.0\Snowballs.pdb
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Snowballs\obj\Debug\net6.0\Snowballs.genruntimeconfig.cache
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Snowballs\obj\Debug\net6.0\ref\Snowballs.dll

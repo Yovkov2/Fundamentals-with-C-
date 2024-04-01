@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yoan2\\source\\repos\\Padawan Equipment\\Rage Expenses\\Rage Expenses.csproj": {}
+    "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Rage Expenses\\Rage Expenses.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yoan2\\source\\repos\\Padawan Equipment\\Rage Expenses\\Rage Expenses.csproj": {
+    "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Rage Expenses\\Rage Expenses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yoan2\\source\\repos\\Padawan Equipment\\Rage Expenses\\Rage Expenses.csproj",
+        "projectUniqueName": "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Rage Expenses\\Rage Expenses.csproj",
         "projectName": "Rage Expenses",
-        "projectPath": "C:\\Users\\yoan2\\source\\repos\\Padawan Equipment\\Rage Expenses\\Rage Expenses.csproj",
+        "projectPath": "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Rage Expenses\\Rage Expenses.csproj",
         "packagesPath": "C:\\Users\\yoan2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yoan2\\source\\repos\\Padawan Equipment\\Rage Expenses\\obj\\",
+        "outputPath": "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Rage Expenses\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yoan2\\AppData\\Roaming\\NuGet\\NuGet.Config",

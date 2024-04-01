@@ -1,0 +1,15 @@
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Pokemon\bin\Debug\net6.0\Pokemon.exe
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Pokemon\bin\Debug\net6.0\Pokemon.deps.json
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Pokemon\bin\Debug\net6.0\Pokemon.runtimeconfig.json
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Pokemon\bin\Debug\net6.0\Pokemon.dll
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Pokemon\bin\Debug\net6.0\Pokemon.pdb
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Pokemon\obj\Debug\net6.0\Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Pokemon\obj\Debug\net6.0\Pokemon.AssemblyInfoInputs.cache
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Pokemon\obj\Debug\net6.0\Pokemon.AssemblyInfo.cs
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Pokemon\obj\Debug\net6.0\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Pokemon\obj\Debug\net6.0\Pokemon.sourcelink.json
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Pokemon\obj\Debug\net6.0\Pokemon.dll
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Pokemon\obj\Debug\net6.0\refint\Pokemon.dll
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Pokemon\obj\Debug\net6.0\Pokemon.pdb
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Pokemon\obj\Debug\net6.0\Pokemon.genruntimeconfig.cache
+C:\Users\yoan2\Documents\GitHub\Fundamentals-with-C-\Exam Preparation\Pokemon\obj\Debug\net6.0\ref\Pokemon.dll
