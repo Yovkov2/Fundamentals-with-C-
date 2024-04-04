@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kamino Factory", "Kamino Fa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LadyBugs", "LadyBugs\LadyBugs.csproj", "{E83CF973-3F9C-4B06-8333-6E2F16FDF6E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Manipulator", "Array Manipulator\Array Manipulator.csproj", "{14475BA8-0921-4F15-BAC7-C9DFCE0A38B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array Manipulator", "Array Manipulator\Array Manipulator.csproj", "{14475BA8-0921-4F15-BAC7-C9DFCE0A38B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Letters Change Numbers", "Letters Change Numbers\Letters Change Numbers.csproj", "{6992619C-479A-41DB-9DE4-2AD06C26A78B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Letters Change Numbers", "Letters Change Numbers\Letters Change Numbers.csproj", "{6992619C-479A-41DB-9DE4-2AD06C26A78B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anonymous Threat", "Anonymous Threat\Anonymous Threat.csproj", "{E9C5C841-9F5E-41AC-A3AD-AAB191217CC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{6992619C-479A-41DB-9DE4-2AD06C26A78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6992619C-479A-41DB-9DE4-2AD06C26A78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6992619C-479A-41DB-9DE4-2AD06C26A78B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9C5C841-9F5E-41AC-A3AD-AAB191217CC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9C5C841-9F5E-41AC-A3AD-AAB191217CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9C5C841-9F5E-41AC-A3AD-AAB191217CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9C5C841-9F5E-41AC-A3AD-AAB191217CC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
