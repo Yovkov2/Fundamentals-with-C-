@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{85FF46D3-1B01-47DF-A8A1-77AD8C7A7224}|Spice Must Flow\\Spice Must Flow.csproj|c:\\users\\yoan2\\documents\\github\\fundamentals-with-c-\\exam preparation\\spice must flow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85FF46D3-1B01-47DF-A8A1-77AD8C7A7224}|Spice Must Flow\\Spice Must Flow.csproj|solutionrelative:spice must flow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6992619C-479A-41DB-9DE4-2AD06C26A78B}|Letters Change Numbers\\Letters Change Numbers.csproj|c:\\users\\yoan2\\documents\\github\\fundamentals-with-c-\\exam preparation\\letters change numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6992619C-479A-41DB-9DE4-2AD06C26A78B}|Letters Change Numbers\\Letters Change Numbers.csproj|solutionrelative:letters change numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14475BA8-0921-4F15-BAC7-C9DFCE0A38B6}|Array Manipulator\\Array Manipulator.csproj|c:\\users\\yoan2\\documents\\github\\fundamentals-with-c-\\exam preparation\\array manipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14475BA8-0921-4F15-BAC7-C9DFCE0A38B6}|Array Manipulator\\Array Manipulator.csproj|solutionrelative:array manipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E83CF973-3F9C-4B06-8333-6E2F16FDF6E1}|LadyBugs\\LadyBugs.csproj|c:\\users\\yoan2\\documents\\github\\fundamentals-with-c-\\exam preparation\\ladybugs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E83CF973-3F9C-4B06-8333-6E2F16FDF6E1}|LadyBugs\\LadyBugs.csproj|solutionrelative:ladybugs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{381E40F6-5CD1-41CC-A71D-70B9FCE673E8}|Pokemon\\Pokemon.csproj|c:\\users\\yoan2\\documents\\github\\fundamentals-with-c-\\exam preparation\\pokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{381E40F6-5CD1-41CC-A71D-70B9FCE673E8}|Pokemon\\Pokemon.csproj|solutionrelative:pokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85FF46D3-1B01-47DF-A8A1-77AD8C7A7224}|Spice Must Flow\\Spice Must Flow.csproj|c:\\users\\yoan2\\documents\\github\\fundamentals-with-c-\\exam preparation\\spice must flow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85FF46D3-1B01-47DF-A8A1-77AD8C7A7224}|Spice Must Flow\\Spice Must Flow.csproj|solutionrelative:spice must flow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Letters Change Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "Letters Change Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Letters Change Numbers\\Program.cs",
+              "RelativeToolTip": "Letters Change Numbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:58:20.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Array Manipulator\\Program.cs",
+              "RelativeDocumentMoniker": "Array Manipulator\\Program.cs",
+              "ToolTip": "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Array Manipulator\\Program.cs",
+              "RelativeToolTip": "Array Manipulator\\Program.cs",
+              "ViewState": "AQIAAH4BAAAAAAAAAAAcwJgBAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:55:03.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\LadyBugs\\Program.cs",
               "RelativeDocumentMoniker": "LadyBugs\\Program.cs",
@@ -47,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Kamino Factory\\Program.cs",
               "RelativeDocumentMoniker": "Kamino Factory\\Program.cs",
@@ -55,12 +89,11 @@
               "RelativeToolTip": "Kamino Factory\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T16:04:20.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T16:04:20.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Snowballs\\Program.cs",
               "RelativeDocumentMoniker": "Snowballs\\Program.cs",
@@ -68,12 +101,11 @@
               "RelativeToolTip": "Snowballs\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T09:57:00.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T09:57:00.686Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Pokemon\\Program.cs",
               "RelativeDocumentMoniker": "Pokemon\\Program.cs",
@@ -85,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yoan2\\Documents\\GitHub\\Fundamentals-with-C-\\Exam Preparation\\Spice Must Flow\\Program.cs",
               "RelativeDocumentMoniker": "Spice Must Flow\\Program.cs",
@@ -93,7 +125,8 @@
               "RelativeToolTip": "Spice Must Flow\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T09:47:45.476Z"
+              "WhenOpened": "2024-04-01T09:47:45.476Z",
+              "EditorCaption": ""
             }
           ]
         }
