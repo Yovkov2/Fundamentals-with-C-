@@ -1,0 +1,14 @@
+C:\Users\35988\source\repos\IntegerOperations\RefactoringPrimeChecker\bin\Debug\net6.0\RefactoringPrimeChecker.exe
+C:\Users\35988\source\repos\IntegerOperations\RefactoringPrimeChecker\bin\Debug\net6.0\RefactoringPrimeChecker.deps.json
+C:\Users\35988\source\repos\IntegerOperations\RefactoringPrimeChecker\bin\Debug\net6.0\RefactoringPrimeChecker.runtimeconfig.json
+C:\Users\35988\source\repos\IntegerOperations\RefactoringPrimeChecker\bin\Debug\net6.0\RefactoringPrimeChecker.dll
+C:\Users\35988\source\repos\IntegerOperations\RefactoringPrimeChecker\bin\Debug\net6.0\RefactoringPrimeChecker.pdb
+C:\Users\35988\source\repos\IntegerOperations\RefactoringPrimeChecker\obj\Debug\net6.0\RefactoringPrimeChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\source\repos\IntegerOperations\RefactoringPrimeChecker\obj\Debug\net6.0\RefactoringPrimeChecker.AssemblyInfoInputs.cache
+C:\Users\35988\source\repos\IntegerOperations\RefactoringPrimeChecker\obj\Debug\net6.0\RefactoringPrimeChecker.AssemblyInfo.cs
+C:\Users\35988\source\repos\IntegerOperations\RefactoringPrimeChecker\obj\Debug\net6.0\RefactoringPrimeChecker.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\IntegerOperations\RefactoringPrimeChecker\obj\Debug\net6.0\RefactoringPrimeChecker.dll
+C:\Users\35988\source\repos\IntegerOperations\RefactoringPrimeChecker\obj\Debug\net6.0\refint\RefactoringPrimeChecker.dll
+C:\Users\35988\source\repos\IntegerOperations\RefactoringPrimeChecker\obj\Debug\net6.0\RefactoringPrimeChecker.pdb
+C:\Users\35988\source\repos\IntegerOperations\RefactoringPrimeChecker\obj\Debug\net6.0\RefactoringPrimeChecker.genruntimeconfig.cache
+C:\Users\35988\source\repos\IntegerOperations\RefactoringPrimeChecker\obj\Debug\net6.0\ref\RefactoringPrimeChecker.dll

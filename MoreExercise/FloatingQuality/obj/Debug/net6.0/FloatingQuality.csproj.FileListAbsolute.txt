@@ -1,0 +1,14 @@
+C:\Users\35988\source\repos\IntegerOperations\FloatingQuality\bin\Debug\net6.0\FloatingQuality.exe
+C:\Users\35988\source\repos\IntegerOperations\FloatingQuality\bin\Debug\net6.0\FloatingQuality.deps.json
+C:\Users\35988\source\repos\IntegerOperations\FloatingQuality\bin\Debug\net6.0\FloatingQuality.runtimeconfig.json
+C:\Users\35988\source\repos\IntegerOperations\FloatingQuality\bin\Debug\net6.0\FloatingQuality.dll
+C:\Users\35988\source\repos\IntegerOperations\FloatingQuality\bin\Debug\net6.0\FloatingQuality.pdb
+C:\Users\35988\source\repos\IntegerOperations\FloatingQuality\obj\Debug\net6.0\FloatingQuality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\source\repos\IntegerOperations\FloatingQuality\obj\Debug\net6.0\FloatingQuality.AssemblyInfoInputs.cache
+C:\Users\35988\source\repos\IntegerOperations\FloatingQuality\obj\Debug\net6.0\FloatingQuality.AssemblyInfo.cs
+C:\Users\35988\source\repos\IntegerOperations\FloatingQuality\obj\Debug\net6.0\FloatingQuality.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\IntegerOperations\FloatingQuality\obj\Debug\net6.0\FloatingQuality.dll
+C:\Users\35988\source\repos\IntegerOperations\FloatingQuality\obj\Debug\net6.0\refint\FloatingQuality.dll
+C:\Users\35988\source\repos\IntegerOperations\FloatingQuality\obj\Debug\net6.0\FloatingQuality.pdb
+C:\Users\35988\source\repos\IntegerOperations\FloatingQuality\obj\Debug\net6.0\FloatingQuality.genruntimeconfig.cache
+C:\Users\35988\source\repos\IntegerOperations\FloatingQuality\obj\Debug\net6.0\ref\FloatingQuality.dll
