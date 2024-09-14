@@ -1,0 +1,14 @@
+C:\Users\35988\source\repos\CompanyRoster\CompanyRoster\bin\Debug\net6.0\CompanyRoster.exe
+C:\Users\35988\source\repos\CompanyRoster\CompanyRoster\bin\Debug\net6.0\CompanyRoster.deps.json
+C:\Users\35988\source\repos\CompanyRoster\CompanyRoster\bin\Debug\net6.0\CompanyRoster.runtimeconfig.json
+C:\Users\35988\source\repos\CompanyRoster\CompanyRoster\bin\Debug\net6.0\CompanyRoster.dll
+C:\Users\35988\source\repos\CompanyRoster\CompanyRoster\bin\Debug\net6.0\CompanyRoster.pdb
+C:\Users\35988\source\repos\CompanyRoster\CompanyRoster\obj\Debug\net6.0\CompanyRoster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\source\repos\CompanyRoster\CompanyRoster\obj\Debug\net6.0\CompanyRoster.AssemblyInfoInputs.cache
+C:\Users\35988\source\repos\CompanyRoster\CompanyRoster\obj\Debug\net6.0\CompanyRoster.AssemblyInfo.cs
+C:\Users\35988\source\repos\CompanyRoster\CompanyRoster\obj\Debug\net6.0\CompanyRoster.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\CompanyRoster\CompanyRoster\obj\Debug\net6.0\CompanyRoster.dll
+C:\Users\35988\source\repos\CompanyRoster\CompanyRoster\obj\Debug\net6.0\refint\CompanyRoster.dll
+C:\Users\35988\source\repos\CompanyRoster\CompanyRoster\obj\Debug\net6.0\CompanyRoster.pdb
+C:\Users\35988\source\repos\CompanyRoster\CompanyRoster\obj\Debug\net6.0\CompanyRoster.genruntimeconfig.cache
+C:\Users\35988\source\repos\CompanyRoster\CompanyRoster\obj\Debug\net6.0\ref\CompanyRoster.dll
