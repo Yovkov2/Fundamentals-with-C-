@@ -1,0 +1,14 @@
+C:\Users\35988\source\repos\Messaging\Messaging\bin\Debug\net6.0\Messaging.exe
+C:\Users\35988\source\repos\Messaging\Messaging\bin\Debug\net6.0\Messaging.deps.json
+C:\Users\35988\source\repos\Messaging\Messaging\bin\Debug\net6.0\Messaging.runtimeconfig.json
+C:\Users\35988\source\repos\Messaging\Messaging\bin\Debug\net6.0\Messaging.dll
+C:\Users\35988\source\repos\Messaging\Messaging\bin\Debug\net6.0\Messaging.pdb
+C:\Users\35988\source\repos\Messaging\Messaging\obj\Debug\net6.0\Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\source\repos\Messaging\Messaging\obj\Debug\net6.0\Messaging.AssemblyInfoInputs.cache
+C:\Users\35988\source\repos\Messaging\Messaging\obj\Debug\net6.0\Messaging.AssemblyInfo.cs
+C:\Users\35988\source\repos\Messaging\Messaging\obj\Debug\net6.0\Messaging.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\Messaging\Messaging\obj\Debug\net6.0\Messaging.dll
+C:\Users\35988\source\repos\Messaging\Messaging\obj\Debug\net6.0\refint\Messaging.dll
+C:\Users\35988\source\repos\Messaging\Messaging\obj\Debug\net6.0\Messaging.pdb
+C:\Users\35988\source\repos\Messaging\Messaging\obj\Debug\net6.0\Messaging.genruntimeconfig.cache
+C:\Users\35988\source\repos\Messaging\Messaging\obj\Debug\net6.0\ref\Messaging.dll

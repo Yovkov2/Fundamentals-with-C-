@@ -1,0 +1,14 @@
+C:\Users\35988\source\repos\Messaging\MixedUpList\bin\Debug\net6.0\MixedUpList.exe
+C:\Users\35988\source\repos\Messaging\MixedUpList\bin\Debug\net6.0\MixedUpList.deps.json
+C:\Users\35988\source\repos\Messaging\MixedUpList\bin\Debug\net6.0\MixedUpList.runtimeconfig.json
+C:\Users\35988\source\repos\Messaging\MixedUpList\bin\Debug\net6.0\MixedUpList.dll
+C:\Users\35988\source\repos\Messaging\MixedUpList\bin\Debug\net6.0\MixedUpList.pdb
+C:\Users\35988\source\repos\Messaging\MixedUpList\obj\Debug\net6.0\MixedUpList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\source\repos\Messaging\MixedUpList\obj\Debug\net6.0\MixedUpList.AssemblyInfoInputs.cache
+C:\Users\35988\source\repos\Messaging\MixedUpList\obj\Debug\net6.0\MixedUpList.AssemblyInfo.cs
+C:\Users\35988\source\repos\Messaging\MixedUpList\obj\Debug\net6.0\MixedUpList.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\Messaging\MixedUpList\obj\Debug\net6.0\MixedUpList.dll
+C:\Users\35988\source\repos\Messaging\MixedUpList\obj\Debug\net6.0\refint\MixedUpList.dll
+C:\Users\35988\source\repos\Messaging\MixedUpList\obj\Debug\net6.0\MixedUpList.pdb
+C:\Users\35988\source\repos\Messaging\MixedUpList\obj\Debug\net6.0\MixedUpList.genruntimeconfig.cache
+C:\Users\35988\source\repos\Messaging\MixedUpList\obj\Debug\net6.0\ref\MixedUpList.dll
