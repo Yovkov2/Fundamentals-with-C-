@@ -1,0 +1,14 @@
+C:\Users\35988\source\repos\TextProcessing\DigitsLettersOthers\bin\Debug\net6.0\DigitsLettersOthers.exe
+C:\Users\35988\source\repos\TextProcessing\DigitsLettersOthers\bin\Debug\net6.0\DigitsLettersOthers.deps.json
+C:\Users\35988\source\repos\TextProcessing\DigitsLettersOthers\bin\Debug\net6.0\DigitsLettersOthers.runtimeconfig.json
+C:\Users\35988\source\repos\TextProcessing\DigitsLettersOthers\bin\Debug\net6.0\DigitsLettersOthers.dll
+C:\Users\35988\source\repos\TextProcessing\DigitsLettersOthers\bin\Debug\net6.0\DigitsLettersOthers.pdb
+C:\Users\35988\source\repos\TextProcessing\DigitsLettersOthers\obj\Debug\net6.0\DigitsLettersOthers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\source\repos\TextProcessing\DigitsLettersOthers\obj\Debug\net6.0\DigitsLettersOthers.AssemblyInfoInputs.cache
+C:\Users\35988\source\repos\TextProcessing\DigitsLettersOthers\obj\Debug\net6.0\DigitsLettersOthers.AssemblyInfo.cs
+C:\Users\35988\source\repos\TextProcessing\DigitsLettersOthers\obj\Debug\net6.0\DigitsLettersOthers.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\TextProcessing\DigitsLettersOthers\obj\Debug\net6.0\DigitsLettersOthers.dll
+C:\Users\35988\source\repos\TextProcessing\DigitsLettersOthers\obj\Debug\net6.0\refint\DigitsLettersOthers.dll
+C:\Users\35988\source\repos\TextProcessing\DigitsLettersOthers\obj\Debug\net6.0\DigitsLettersOthers.pdb
+C:\Users\35988\source\repos\TextProcessing\DigitsLettersOthers\obj\Debug\net6.0\DigitsLettersOthers.genruntimeconfig.cache
+C:\Users\35988\source\repos\TextProcessing\DigitsLettersOthers\obj\Debug\net6.0\ref\DigitsLettersOthers.dll

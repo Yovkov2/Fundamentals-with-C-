@@ -1,0 +1,14 @@
+C:\Users\35988\source\repos\TextProcessing\TextProcessing\bin\Debug\net6.0\TextProcessing.exe
+C:\Users\35988\source\repos\TextProcessing\TextProcessing\bin\Debug\net6.0\TextProcessing.deps.json
+C:\Users\35988\source\repos\TextProcessing\TextProcessing\bin\Debug\net6.0\TextProcessing.runtimeconfig.json
+C:\Users\35988\source\repos\TextProcessing\TextProcessing\bin\Debug\net6.0\TextProcessing.dll
+C:\Users\35988\source\repos\TextProcessing\TextProcessing\bin\Debug\net6.0\TextProcessing.pdb
+C:\Users\35988\source\repos\TextProcessing\TextProcessing\obj\Debug\net6.0\TextProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\source\repos\TextProcessing\TextProcessing\obj\Debug\net6.0\TextProcessing.AssemblyInfoInputs.cache
+C:\Users\35988\source\repos\TextProcessing\TextProcessing\obj\Debug\net6.0\TextProcessing.AssemblyInfo.cs
+C:\Users\35988\source\repos\TextProcessing\TextProcessing\obj\Debug\net6.0\TextProcessing.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\TextProcessing\TextProcessing\obj\Debug\net6.0\TextProcessing.dll
+C:\Users\35988\source\repos\TextProcessing\TextProcessing\obj\Debug\net6.0\refint\TextProcessing.dll
+C:\Users\35988\source\repos\TextProcessing\TextProcessing\obj\Debug\net6.0\TextProcessing.pdb
+C:\Users\35988\source\repos\TextProcessing\TextProcessing\obj\Debug\net6.0\TextProcessing.genruntimeconfig.cache
+C:\Users\35988\source\repos\TextProcessing\TextProcessing\obj\Debug\net6.0\ref\TextProcessing.dll
